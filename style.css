@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: hsl(165, 34%, 86%);
+}
+
+#projects {
+  background-color: hsl(165, 34%, 86%);
+}
+
+section {
+  padding-top: 1rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
